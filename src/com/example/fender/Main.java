@@ -172,6 +172,7 @@ public class Main extends Activity implements OnClickListener,IBluetooth{
         //****************TreeView*******************//
         initialTreeView();
 //		initEvent();//初始化TreeView的点击事件 可以不加
+        //
 		//***************************//
         
     }
